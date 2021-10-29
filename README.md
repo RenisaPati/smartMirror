@@ -7,12 +7,12 @@ Raspberry Pi Power Supply
 USB mouse & Keyboard
 Two-way mirror 
 
-The idea is to enable your regular mirror with features of a smart digital device.
+The idea is to enable a regular mirror with features of a smart digital device.
 In this project, the mirror is capable of
--displaying current weather and prediction
--displaying current time
--maintaining a to-do list/reminder, which can be modified with voice instructions like "Hey, please add milk to my grocery list"
--News headlines
+- displaying current weather and prediction
+- displaying current time
+- maintaining a to-do list/reminder, which can be modified with voice instructions like "Hey, please add milk to my grocery list"
+- News headlines
 
 It also provides the user to add or remove widgets of their choice with minimal efforts.
 
